@@ -18,13 +18,12 @@ Bu sisteme müdahalede bulunan toplamda 3 agile takım bulunmaktadır. Bu agile 
 
 ### Beklentiler
 
-- Yukarıdaki senaryoya istinaden;
+- Yukarıdaki senaryoya istinaden; aşağıdaki sorular yanıtlanmalıdır.
   - Geliştirme süreçleri ne yönde iyileştirilebilir?
   - Geliştirme süreçlerinin hangi noktalarında hangi testler yapılmalıdır?
   - Sisteme yapılması gereken periyodik testler var mıdır? Nelerdir?
-  - Sistemdeki otel arama işlevi için test edilmesi kritik olarak belirlediğiniz 10 adet test case'i hazırlayın.
-  - Yukarıdaki sistem için nasıl bir test otomasyonu devreye alırdınız?
   - Sistemde çıkan her güncelleme sonrasında neleri kontrol ederdiniz?
+- [setur.com.tr](https://www.setur.com.tr/) üzerindeki otel arama işlevi için test edilmesi kritik olarak belirlediğiniz 10 adet test case'i test otomasyonu oluşturarak hazırlayın. Bu otomasyon kodlarını GitHub'da yayınlayarak bize iletebilirsiniz.
 - Açıkta kalan noktalar için bir toplantı yapılmış gibi hareket edilebilir, bu durumda yapılan varsayımlar gerçek yorumlarmış gibi assessment çıktısına eklenmelidir.
 
 
