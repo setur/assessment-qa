@@ -23,7 +23,7 @@ Bu sisteme müdahalede bulunan toplamda 3 agile takım bulunmaktadır. Bu agile 
   - Geliştirme süreçlerinin hangi noktalarında hangi testler yapılmalıdır?
   - Sisteme yapılması gereken periyodik testler var mıdır? Nelerdir?
   - Sistemde çıkan her güncelleme sonrasında neleri kontrol ederdiniz?
-- [setur.com.tr](https://www.setur.com.tr/) üzerindeki otel arama işlevi için test edilmesi kritik olarak belirlediğiniz 10 adet test case'i test otomasyonu oluşturarak hazırlayın. Bu otomasyon kodlarını GitHub'da yayınlayarak bize iletebilirsiniz.
+- [setur.com.tr](https://www.setur.com.tr/) üzerindeki otel arama işlevi için test edilmesi kritik olarak belirlediğiniz 4 senaryoyu test otomasyonu oluşturarak hazırlayın. Bu otomasyon kodlarını GitHub'da yayınlayarak bize iletebilirsiniz.
 - Açıkta kalan noktalar için bir toplantı yapılmış gibi hareket edilebilir, bu durumda yapılan varsayımlar gerçek yorumlarmış gibi assessment çıktısına eklenmelidir.
 
 
